@@ -1,6 +1,6 @@
 # module-2-challenge
 
-##I have used the below pseudocode/scaffold to write my code uploaded on Slack by our instructor.
+I have used the below pseudocode/scaffold to write my code uploaded on Slack by our instructor.
 
 Sub stock_analysis():
 
