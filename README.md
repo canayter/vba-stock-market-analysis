@@ -1,6 +1,7 @@
 # module-2-challenge
 
 I have used the below pseudocode/scaffold to write my code uploaded on Slack by our instructor.
+My subroutine is located in the Module.bas file. I was able to save and upload the file as a .bas file and not as .vbs.
 
 Sub stock_analysis():
 
